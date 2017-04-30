@@ -1,0 +1,23 @@
+{
+  "name": "angular-qmgj",
+  "version": "1.0.0",
+  "description": "This is an Angular project my pratice",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpengyue/AngularProject-Qmgj.git"
+  },
+  "keywords": [
+    "angular",
+    "project"
+  ],
+  "author": "cpengyue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpengyue/AngularProject-Qmgj/issues"
+  },
+  "homepage": "https://github.com/cpengyue/AngularProject-Qmgj#readme"
+}
